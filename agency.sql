@@ -1,0 +1,2 @@
+BEGIN;INSERT INTO agency ('agency_id', 'agency_name', 'agency_url', 'agency_timezone', 'agency_lang', 'agency_phone') VALUES ('SEM', 'Mobilités M - Tag', 'https://www.mobilites-m.fr/', 'Europe/Paris', 'FR', 438703870);
+ COMMIT;

@@ -1,0 +1,1 @@
+INSERT INTO agency (agency_id, agency_name, agency_url, agency_timezone, agency_lang, agency_phone) VALUES ('{0: ''SEM''}', '{0: ''Mobilités M - Tag''}', '{0: ''https://www.mobilites-m.fr/''}', '{0: ''Europe/Paris''}', '{0: ''FR''}', '{0: 438703870}')
